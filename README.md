@@ -1,2 +1,2 @@
-# luckycharmpage
-Lucky Charm Page
+# luckycharm-settings
+Settings for lucky charm
